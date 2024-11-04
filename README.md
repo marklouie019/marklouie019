@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Louie
-- 👀 I’m interested in Web Development and UI/UX Designing
+- 👀 I’m interested in Web Development and UI/UX Design
 - 🌱 I’m currently learning HTML/CSS/JS/MySQL/PHP/Python/Java
 
 <!---
